@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+footer,
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px
+}
+
+.container img {
+    height: 345px;
+    width: 364px
+}
